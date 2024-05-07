@@ -46,29 +46,29 @@ body {
     padding: 24px 0;
 }
 
-.estudante{
+.natureza{
     padding: 24px 0;
 }
-.estudante-imagem{
+.natureza-imagem{
     width: 300px;
 }
 
-.estudante-icone{
+.natureza-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.estudante-div{
+.natureza-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.estudante-titulo{
+.natureza-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.estudante-todos{
+.natureza-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
